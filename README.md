@@ -5,4 +5,4 @@ First: I will use data from before 2002 in the Sean Lahman's Baseball Database t
 
 Second: I will use the famous iris data set to perform a  k-neareast neighbor classification using cross validation.
 
-Third: I will investigate the influence of higher dimensional spaces on the classification using another standard data set in machine learning called the The digits data set.
+Third: I will investigate the influence of higher dimensional spaces on the classification using another standard data set in machine learning called the digits data set.
