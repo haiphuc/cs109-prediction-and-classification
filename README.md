@@ -1,5 +1,5 @@
 # cs109_prediction_and_classification
-This served as homework for the [CS109 Data Science cource](http://cs109.org) and was represented as a [Jupyter Notebook](HW3.ipynb).
+This served as homework for the [CS109 Data Science cource](http://cs109.org) and is represented as a [Jupyter Notebook](HW3.ipynb).
 
 First: I will use data from before 2002 in the Sean Lahman's Baseball Database to create a metric for picking baseball players using linear regression.
 
